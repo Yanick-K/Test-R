@@ -6,7 +6,6 @@ Configuration du fichier .env
 
 `php artisan migrate --seed`
 
-`npm install && run dev` ou `yarn && yarn dev`
 
 `php artisan serve`
 

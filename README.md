@@ -1,6 +1,6 @@
 Etapes à effectuer après le git clone
 
-Configuration du fichier .env
+Création & configuration du fichier .env
 
 `composer install`
 
